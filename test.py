@@ -47,4 +47,3 @@ for i in range(5):
         else:
             print(A[i],end=' ')
 
-
